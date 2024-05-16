@@ -37,7 +37,7 @@ var playerstart = [
     [75, 350, 732, 308, 507, 238],
     [548,242,173,215,365,427]
 ];
-var lvlnum = 0;
+var lvlnum = 1;
 var pwlkanim = [1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6];
 var winnum = 2;
 var wall;
